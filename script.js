@@ -1,4 +1,3 @@
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.js"></script>
         let cropper;
         let isCircle = false;
 
